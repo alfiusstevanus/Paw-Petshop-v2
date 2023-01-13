@@ -1,5 +1,4 @@
 package com.TugasBesar.view;
-
 import com.TugasBesar.pojo.Pelanggan;
 import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
