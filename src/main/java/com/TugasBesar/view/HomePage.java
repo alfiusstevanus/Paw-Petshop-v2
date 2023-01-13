@@ -1,5 +1,4 @@
 package com.TugasBesar.view;
-
 import java.awt.Toolkit;
 import java.awt.event.WindowEvent;
 import javax.swing.JFrame;
